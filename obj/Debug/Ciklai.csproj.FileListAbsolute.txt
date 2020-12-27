@@ -1,0 +1,11 @@
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\bin\Debug\Ciklai.exe.config
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\bin\Debug\Ciklai.exe
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\bin\Debug\Ciklai.pdb
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.csprojAssemblyReference.cache
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.Form1.resources
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.Form2.resources
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.Properties.Resources.resources
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.csproj.GenerateResource.cache
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.exe
+C:\Users\Paulius\Desktop\Ciklai-7Tema-main\obj\Debug\Ciklai.pdb
